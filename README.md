@@ -16,7 +16,7 @@ this.sfDataGrid.Style.CaptionSummaryRowStyle.HorizontalAlignment = HorizontalAli
 
 #### Note: 
 
-GroupSummaryRowStyle and CaptionSummaryRowStyle horizontal alignment are customized like the horizontal alignment customization of TableSummaryRowStyle
+GroupSummaryRowStyle and CaptionSummaryRowStyle horizontal alignment are customized like the horizontal alignment customization of TableSummaryRowStyle.
 
 The following screenshot shows the right justify of Table, Group and Caption summary column in DataGrid.
 
