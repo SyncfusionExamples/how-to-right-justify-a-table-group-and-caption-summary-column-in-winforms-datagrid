@@ -1,6 +1,6 @@
-# How To Right Justify Summary Column in Winforms Datagrid?
+# How To Right Justify Summary Column in WinForms DataGrid?
 
-This example illustrates how to right justify a Table, Group and Caption summary column in [WinForms DataGrid](https://www.syncfusion.com/winforms-ui-controls/datagrid).
+This example illustrates how to right justify a Table, Group and Caption summary column in [WinForms DataGrid](https://www.syncfusion.com/winforms-ui-controls/datagrid) (SfDataGrid).
 
 By default, `DataGrid` shows the [GridTableSummaryRow](https://help.syncfusion.com/cr/windowsforms/Syncfusion.WinForms.DataGrid.GridTableSummaryRow.html) in Left Alignment. You can change TableSummaryRow alignment by customization the HorizontalAligment property of [TableSummaryRowStyle](https://help.syncfusion.com/cr/windowsforms/Syncfusion.WinForms.DataGrid.Styles.DataGridStyle.html#Syncfusion_WinForms_DataGrid_Styles_DataGridStyle_TableSummaryRowStyle) property. The `TableSummaryRowStyle` property contains all the settings that are needed for the table summary row appearance customization.
 
